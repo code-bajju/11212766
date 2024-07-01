@@ -1,6 +1,7 @@
 # Submission Task in NextJS
 
-This project demonstrates fetching and displaying numbers from API endpoints using React with TypeScript, integrating authentication via Node.js.
+- Task 1 : This project demonstrates fetching and displaying numbers from API endpoints using React with TypeScript, integrating authentication via Node.js.
+- Task 2 : This project demonstrates fetching and displaying Product items with varioud conditional API endpoints using React with TypeScript, integrating authentication via Node.js.
 
 ## Registration Setup
 
